@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/taskli-st/dynamodb-query#readme",
   "devDependencies": {
+    "@types/aws-sdk": "^2.7.0",
     "@types/jsonstream": "^0.8.30",
     "eslint": "^8.31.0",
     "eslint-config-prettier": "^8.5.0",
