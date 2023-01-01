@@ -1,6 +1,6 @@
 {
   "name": "@taskli-st/dynamodb-query",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A thin layer around DynamoDb.DocumentClient() that supports limit and pagination as you would expect it to work",
   "type": "module",
   "exports": {
